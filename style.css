@@ -1,0 +1,141 @@
+*{
+  font-family: 'Baloo Da 2', cursive;
+}
+
+
+--body {
+  background-image: url("images/patern2.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+
+.font-simply{
+  font-family: 'Lobster', cursive;
+}
+
+i { 
+  color: #db3b47;
+
+  } 
+
+.my-jumbo{
+  background-image: url(images/biblio.jpg);
+  height: auto;
+  background-size: cover;
+}
+
+.font-fonct {
+  font-size: 50px;
+}
+
+
+.souli {
+  
+  color :#78D33C;
+}
+
+.text-n {
+  color: black;
+}
+
+.bouton {
+  margin-top: 30px;
+}
+
+.juris {
+  text-decoration: underline #db3b47;
+}
+
+.book {
+  background-image: url(images/red-book.jpg);
+  margin: none;
+}
+
+
+  
+
+
+.font-logo{
+  font-size: 120px;
+}
+
+.size-text{
+  font-size: 30px;
+  
+}
+
+.blue {
+  color: #2562BE;
+}
+
+.grey{
+  color: #6E6F78;
+  align: "center"
+}
+
+.card3{
+  margin-top: 50px;
+}
+
+a:hover {
+  background-color: gold;
+}
+
+.my-container {
+  margin-top: none;
+}
+
+.card4{
+  margin-top: 20px;
+}
+
+.white {
+  color: white;
+}
+
+.parallax {
+  
+  background-image: url("images/etoiles.jpg");
+
+  background-attachment: fixed;
+  
+  
+}
+
+.parallax3 {
+  
+  background-image: url("images/tel.jpg");
+  height: 400px;
+  background-attachment: fixed;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.parallax2 {
+  
+  background-image: url("images/etoiles.jpg");
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.cyan {
+  color: #2FBDBB;
+  
+}
+
+.oui {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.valeurs {
+  margin-bottom: 50px;
+}
